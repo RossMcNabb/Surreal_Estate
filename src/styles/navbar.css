@@ -2,3 +2,17 @@
 .navBar{
     background-color: black;
 }
+.Logo{
+    float: left;
+    width:10%;
+}
+.navbar-links{
+    color: white;
+    margin: 0%;
+    padding: 0%;
+}
+.nav-link-item{
+    margin: 0%;
+    padding: 2.5%;
+    display: inline-block;
+}
